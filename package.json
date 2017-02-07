@@ -40,14 +40,14 @@
     "react-dom": "~15.3.2",
     "react-native": "^0.41.2",
     "react-native-mock": "0.2.7",
-    "react-native-svg": "^4.3.1",
+      "react-native-svg": "^5.1.5",
     "react": "^15.4.0",
     "react-native-svg-mock": "^1.0.2"
   },
   "peerDependencies": {
     "react": "^15.4.0",
     "react-native": "^0.41.2",
-    "react-native-svg": "^4.1.0"
+      "react-native-svg": "^5.1.5"
   },
   "dependencies": {
     "victory-chart": "^14.0.4",
